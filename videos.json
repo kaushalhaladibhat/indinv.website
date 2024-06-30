@@ -1,0 +1,4 @@
+[
+    { "id": 1, "title": "Sample Video 1", "description": "This is a sample video.", "src": "video1.mp4" },
+    { "id": 2, "title": "Sample Video 2", "description": "This is another sample video.", "src": "video2.mp4" }
+]
